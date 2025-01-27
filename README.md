@@ -1,4 +1,4 @@
-# SQL_QUERY_HUB
+# 📕 SQL_QUERY_HUB
 
 Welcome to **SQL_QUERY_HUB**, your go-to repository for SQL queries and solutions to challenges from various platforms. This repository is designed to help developers, students, and SQL enthusiasts access and learn from a wide range of SQL queries, improving their database skills and understanding of real-world scenarios.
 
@@ -15,7 +15,7 @@ The repository is organized into folders for easy navigation and categorization.
     - 🧩 Joins
     - 📊 Aggregations
     - 🔍 Subqueries
-    - 🎯 Window Functions
+    - 🎯 Window Functions and more...
 
 ### Upcoming Additions:
 - **📁 Hackerrank SQL Solutions**
@@ -65,9 +65,9 @@ If you find this repository helpful or have suggestions for improvement, feel fr
 
 If you have questions or want to connect:
 
-**GitHub:** yourusername
-**Email:** your-email@example.com
-**LinkedIn:** Follow me
+**GitHub:** https://github.com/aryanbarde80
+**Email:** aryanbarde80@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/aryanbarde80/
 
 ---
 
