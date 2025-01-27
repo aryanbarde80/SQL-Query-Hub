@@ -65,9 +65,9 @@ If you find this repository helpful or have suggestions for improvement, feel fr
 
 If you have questions or want to connect:
 
-1. **GitHub:** https://github.com/aryanbarde80
-2. **Email:** aryanbarde80@gmail.com
-3. **LinkedIn:** https://www.linkedin.com/in/aryanbarde80/
+- **GitHub:** https://github.com/aryanbarde80
+- **Email:** aryanbarde80@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/aryanbarde80/
 
 ---
 
