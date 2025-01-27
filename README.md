@@ -1,4 +1,4 @@
-# 📕 SQL_QUERY_HUB
+# 📕 SQL QUERY HUB
 
 Welcome to **SQL_QUERY_HUB**, your go-to repository for SQL queries and solutions to challenges from various platforms. This repository is designed to help developers, students, and SQL enthusiasts access and learn from a wide range of SQL queries, improving their database skills and understanding of real-world scenarios.
 
@@ -65,9 +65,9 @@ If you find this repository helpful or have suggestions for improvement, feel fr
 
 If you have questions or want to connect:
 
-**GitHub:** https://github.com/aryanbarde80
-**Email:** aryanbarde80@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/aryanbarde80/
+1. **GitHub:** https://github.com/aryanbarde80
+2. **Email:** aryanbarde80@gmail.com
+3. **LinkedIn:** https://www.linkedin.com/in/aryanbarde80/
 
 ---
 
